@@ -201,4 +201,4 @@ main()
 
 This is the result of the code above:
 
-![The result of the simulation](imgs\Screenshot_5.png)
+![The result of the simulation](imgs/Screenshot_5.png)
